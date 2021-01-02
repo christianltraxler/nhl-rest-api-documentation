@@ -2,10 +2,15 @@
 ---
 
 [Franchises](#franchises)
+
 [Countries](#countries)
+
 [Seasons](#seasons)
+
 [Draft](#draft)
+
 [League Leaders](#leaders)
+
 ---
 ### <a name="franchises"></a>Franchises
 `GET https://api.nhle.com/stats/rest/en/franchise` Returns a list of all franchises
